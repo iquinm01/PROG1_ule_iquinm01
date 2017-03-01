@@ -1,0 +1,10 @@
+ordenador: http://dle.rae.es/?id=R9dHZWB
+comprar: http://dle.rae.es/?id=A2uSS6N
+buscar: http://dle.rae.es/?id=6LB1acb
+caballo: http://dle.rae.es/?id=6OPHOdx
+pacto: http://dle.rae.es/?id=RQM9sBu
+programación: http://dle.rae.es/?id=UJUdMN9
+enseñar: http://dle.rae.es/?id=FdI00Or
+piano: http://dle.rae.es/?id=SrhwDrE|Srl4pbt
+leer: http://dle.rae.es/?id=N3m3mKb
+amigo: http://dle.rae.es/?id=2LsqDPa
